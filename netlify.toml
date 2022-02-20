@@ -5,4 +5,4 @@
     Content-Security-Policy = "upgrade-insecure-requests"
     X-Frame-Options = "DENY"
     X-Content-Type-Options = "nosniff"
-    Refererrer-Policy = "same-origin"
+    Referrer-Policy = "same-origin"

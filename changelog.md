@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.4 (20.02.2022)
+
+- Typo fixes in security headers
+
 ## 0.0.3 (20.02.2022)
 
 - More security headers tweaks
